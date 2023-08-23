@@ -4,11 +4,13 @@ When we press a pushbutton or toggle switch or a micro switch, two metal parts c
 
 ![image](https://github.com/AbdelrahmanKhaled826/debouncing/assets/66374409/1dae95aa-0927-43ac-a75a-f1c15cd1e171)
 
-#fsm#
+### FSM
+
+
 ![image](https://github.com/AbdelrahmanKhaled826/debouncing/assets/66374409/2b5bcb73-eef8-4435-b031-a3a6ca45aa55)
 
 
-#The rtl schematic 
+###The rtl schematic 
 
 ![image](https://github.com/AbdelrahmanKhaled826/debouncing/assets/66374409/66866012-53b8-4c52-98bd-8f2ded7a7fb8)
 
